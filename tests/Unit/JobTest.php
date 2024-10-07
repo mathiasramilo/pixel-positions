@@ -4,7 +4,7 @@ namespace Tests\Unit;
 
 use App\Models\Employer;
 use App\Models\Job;
-use PHPUnit\Framework\TestCase;
+use Tests\TestCase;
 
 class JobTest extends TestCase
 {
